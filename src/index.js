@@ -1,3 +1,5 @@
+console.log('MY FORK');
+
 import AbstractEvent from 'shared/AbstractEvent';
 import AbstractPlugin from 'shared/AbstractPlugin';
 
